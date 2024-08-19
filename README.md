@@ -7,7 +7,7 @@ Created a Regex tutorial : Matching an email regex
 
 In this Regex Tutorial, you'll learn how to validate email addresses using the featured regular expression (regex): /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. The tutorial offers a detailed breakdown of each component within the regex, making the validation process straightforward and easy to understand. By the end of this tutorial, you'll have a solid understanding of how this regex works to ensure that a given email address is valid.
 
-github gist : ![Click here](https://gist.github.com/Preksha2408/d7819d86e3c2d05e36ac86ba82e9d075)
+github gist : [Click here](https://gist.github.com/Preksha2408/d7819d86e3c2d05e36ac86ba82e9d075)
 
 ## Table of Contents
 
@@ -97,7 +97,7 @@ For questions or further information, please contact me:
 
 * GitHub - [Preksha2408](https://github.com/Preksha2408/Preksha-challenge17-Regex-tutorial.git)
 
-* github gist : ![Click here](https://gist.github.com/Preksha2408/d7819d86e3c2d05e36ac86ba82e9d075)
+* github gist : [Click here](https://gist.github.com/Preksha2408/d7819d86e3c2d05e36ac86ba82e9d075)
 
 
 
